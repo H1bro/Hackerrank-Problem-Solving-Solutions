@@ -1,2 +1,2 @@
 # Hackerrank-Problem-Solving-Solutions
-Problem solving
+This repo consists the solution of hackerrank problem solving solutions
